@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:test_mongodb/dbAuth/mongodb.dart';
 import 'package:test_mongodb/insert.dart';
+import 'register.dart';
 
 void main() async {
 
